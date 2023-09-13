@@ -2,9 +2,11 @@
 
 - 👋 Hi, I’m @Ahmed-abdisalaam-ahmed
 - 👀 I’m interested in ...programming 💻
-- 🌱 I’m currently learning ... web development 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... eldinshehab87@gmail.com 
+- 🌱 I’m currently learning ...  
+- 📫 How to reach me ... eldinshehab87@gmail.com
+ <a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Ahmed-abdisalaam-ahmed&label=Profile%20Views&color=0&icon=0&pretty=true" />
+</a>
 
 <!---
 [![](https://visitcount.itsvg.in/api?id=Ahmed-abdisalaam-ahmed&label=Profile%20Views&color=12&icon=0&pretty=true)](https://visitcount.itsvg.in)
