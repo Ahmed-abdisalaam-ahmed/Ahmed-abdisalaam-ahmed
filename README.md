@@ -1,5 +1,5 @@
 <h1>hello i'm shihab </h1>
-https://img.shields.io/github/followers/Ahmed-abdisalaam-ahmed?style=flat-square">
+<img width="120px" height="25px" style="border-radius: 3px" src=https://img.shields.io/github/followers/Ahmed-abdisalaam-ahmed?style=flat-square">
 - 👋 Hi, I’m @Ahmed-abdisalaam-ahmed
 - 👀 I’m interested in ...programming 💻
 - 🌱 I’m currently learning ... web development 
