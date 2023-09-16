@@ -1,8 +1,8 @@
-<h1>hello I'm shihab Eldin </h1>
+<h1>Hello I'm Shihab Eldin </h1>
 
 - 👋 Hi, I’m @Ahmed-abdisalaam-ahmed
-- 👀 I’m interested in ...programming 💻
-- 🌱 I’m currently learning ...  
+- 👀 I’m interested in ...learning a programming 💻
+- 🌱 I’m currently learning ...  frontend/🧑🏽‍💻
 - 📫 How to reach me ... eldinshehab87@gmail.com
  <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=Ahmed-abdisalaam-ahmed&label=Profile%20Views&color=0&icon=0&pretty=true" />
