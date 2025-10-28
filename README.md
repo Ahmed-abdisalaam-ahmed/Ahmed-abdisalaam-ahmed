@@ -8,7 +8,7 @@
 
 ###
 
-<h4 align="left">My name is Ahmed<br>I'm a passionate learner and future Full Stack, AI Developer and DevOps                                     From: United Kingdom</h4>
+<h4 align="left">My name is Ahmed<br>I'm a passionate learner and future Full Stack, AI Developer and DevOps        <br>                             From: United Kingdom</h4>
 
 ###
 
