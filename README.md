@@ -8,7 +8,7 @@
 
 ###
 
-<h4 align="left">My name is Ahmed<br>I'm a passionate learner and future Full Stack, AI Developer and DevOps<br>From: the Earth 🌍</h4>
+<h4 align="left">My name is Ahmed<br>I'm a passionate learner and future Full Stack, AI Developer and DevOps                                     From: United Kingdom</h4>
 
 ###
 
@@ -77,7 +77,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Ahmed-abdisalaam-ahmed/Ahmed-abdisalaam-ahmed/main/dist/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Ahmed-abdisalaam-ahmed/Ahmed-abdisalaam-ahmed/output/snake.svg" alt="Snake animation" />
 
 ###
 
