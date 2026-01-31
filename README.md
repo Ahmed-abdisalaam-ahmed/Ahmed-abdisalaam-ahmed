@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs and fixing them one commit at a time 😄<br>⚛️ Currently learning React.js and improving my frontend development skills<br>🎯 My goal is to become a Full Stack Developer who can build both web and mobile apps powered by AI<br>🌿 Fun fact: I get many coding ideas from anime and nature 🌙</p>
+<p align="left">✨ Creating bugs and fixing them one commit at a time 😄<br>⚛️ Currently learning React.js and improving my frontend development skills<br>🎯 My goal is to become a Full Stack Developer who can build both web and mobile apps powered by AI<br>🌿 Fun fact: I get many coding ideas from art and nature 🌙</p>
 
 ###
 
