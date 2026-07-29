@@ -74,16 +74,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/Ahmed-abdisalaam-ahmed/Ahmed-abdisalaam-ahmed/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Ahmed-abdisalaam-ahmed.Ahmed-abdisalaam-ahmed&"  />
-</div>
   
 ###
   
